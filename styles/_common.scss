@@ -10,6 +10,12 @@
     color: $green;
   }
 }
+.logo{
+  background: url("../assets/images/flogo.png");
+  width: 8em;
+  height: 3em;
+  background-size: cover;
+}
 .logobg {
   font-size: $xll;
   span {
